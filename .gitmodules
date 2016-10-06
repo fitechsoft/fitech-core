@@ -10,6 +10,3 @@
 	path = core-flow
 	url = https://github.com/fitechsoft/core-flow.git
 	branch = master
-[submodule "fitech-common"]
-	path = fitech-common
-	url = https://github.com/fitechsoft/fitech-common.git
