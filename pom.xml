@@ -10,9 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>../core-domain</module>
-        <module>../core-repository</module>
-        <module>../core-flow</module>
+        <module>core-domain</module>
+        <module>core-repository</module>
+        <module>core-flow</module>
     </modules>
 
     <properties>

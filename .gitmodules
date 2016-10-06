@@ -1,0 +1,12 @@
+[submodule "core-domain"]
+	path = core-domain
+	url = https://github.com/fitechsoft/core-domain.git
+	branch = master
+[submodule "core-repository"]
+	path = core-repository
+	url = https://github.com/fitechsoft/core-repository.git
+	branch = master
+[submodule "core-flow"]
+	path = core-flow
+	url = https://github.com/fitechsoft/core-flow.git
+	branch = master
